@@ -56,6 +56,8 @@
 <p align="Center">
 <a href="https://discordapp.com/users/586955315313115181/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord&perline=7" /></a>
 <a href="https://x.com/ParuiSiddhesh" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter&perline=7" /></a>
+<a href="https://www.linkedin.com/in/siddhesh-parui-820826312/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&perline=7" /></a>
+<a href="https://www.instagram.com/siddheshparui/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram&perline=7" /></a>
 </p>
 
 </div>  

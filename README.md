@@ -63,7 +63,7 @@
 <div>
 <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
 <p align= center>
-<img src="https://media1.tenor.com/m/EJ1C6RDW3YoAAAAC/kakashi-bye-bye-anime.gif" />
+<img src="https://media1.tenor.com/m/ZQndYO4NwBcAAAAC/gojo-satoru.gif" />
 </p>
   <br> 
 </div>  

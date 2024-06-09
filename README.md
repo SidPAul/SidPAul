@@ -30,7 +30,7 @@
 <h4 align="Center">Software/Programs</h4>
 <p align = "center">
      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=androidstudio,blender,unity,unreal,vscode,visualstudio,wordpress&perline=7"alt="My Skills"/> 
+        <img src="https://skillicons.dev/icons?i=androidstudio,blender,unity,unreal,vscode,visualstudio,wordpress,ps&perline=7"alt="My Skills"/> 
     </a>
 </p>
 

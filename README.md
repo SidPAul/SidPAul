@@ -1,7 +1,7 @@
-✨ Hi there I'm Sid ✨
+                                                ✨ Hi there I'm Sid ✨
 
-About Me 💫
--------------------------------
+                                                      About Me 💫
+                                            -------------------------------
 
 Name: Siddhesh Parui
 

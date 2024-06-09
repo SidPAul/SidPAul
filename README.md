@@ -1,8 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Sid</h1> 
-<img align="center" alt="Coding" width-"400" src="https://tenor.com/98Bd.gif">
-<h3 align="center">A Tech-nerd from India.</h3>
+<h1 align="center">Hi there 👋, I'm Sid</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidpaul" alt="sidpaul" /></a> </p>
+                                            https://tenor.com/98Bd.gif
+
+<h3 align="center">An Tech-nerd from India.</h3>
 
 - 🔍 Who am I? **B.Sc. Computer Science Student 👨‍🎓.**
 
@@ -23,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidpaul&show_icons=true&locale=en" alt="sidpaul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidpaul&" alt="sidpaul" /></p>
+

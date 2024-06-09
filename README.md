@@ -15,7 +15,7 @@ Loves: Videogames 🎮, Techy Stuff 🤖, Books 📚.
 
 Hobbies: Gaming, Coding while I am listening music 🎶.
 
-Languages: CPlusPlus, CSharp, Python, R.
+Languages: CPlusPlus, CSharp, Python, R, CSS 3.
 
 Learning: Computer Science.
 

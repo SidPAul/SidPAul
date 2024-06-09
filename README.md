@@ -1,22 +1,24 @@
+
                                                 ✨ Hi there I'm Sid ✨
 
+                                            -------------------------------
                                                       About Me 💫
                                             -------------------------------
 
-Name: Siddhesh Parui
+    Name: Siddhesh Parui
 
-WhoamI: B.Sc. Computer Science Student 🏫.
+    WhoamI: B.Sc. Computer Science Student 🏫.
 
-Gender: Male.
+    Gender: Male.
 
-Location: Mumbai, India.
+    Location: Mumbai, India.
 
-Loves: Videogames 🎮, Techy Stuff 🤖, Books 📚.
+    Loves: Videogames 🎮, Techy Stuff 🤖, Books 📚.
 
-Hobbies: Gaming, Coding while I am listening music 🎶.
+    Hobbies: Gaming, Coding while I am listening music 🎶.
 
-Languages: CPlusPlus, CSharp, Python, R, CSS 3.
+    Languages: CPlusPlus, CSharp, Python, R, CSS 3.
 
-Learning: Computer Science.
+    Learning: Computer Science.
 
-Discord: theunholychrist.
+    Discord: theunholychrist.

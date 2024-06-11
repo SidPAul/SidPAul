@@ -12,7 +12,7 @@
 ```csharp
   🔍 Who am I ?:  B.Sc. Computer Science Student 👨‍🎓.
 
-  📚 Additionally learning:  CSS 3, PYTHON, RUST, JavaScript, React, Nextjs, Node.js, AWS.
+  📚 Additionally learning:  CSS 3, RUBY, PYTHON, RUST, JavaScript, React, Nextjs, Node.js, AWS.
 
   👯 Hobbies:  Gaming🎮, Coding while I am listening music 🎶.
 ```
